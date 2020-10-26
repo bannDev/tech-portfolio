@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Stavros M. Bannoura', // Title for your website.
-    tagline: 'Always working, aspiring software developer/PM.', 'Motivated'.
+    tagline: 'Always working, aspiring software developer/PM.', 'Motivated'
     profilePhoto: 'img/profile.png',
     url: 'https://github.com/bannDev', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
