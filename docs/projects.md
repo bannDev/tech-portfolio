@@ -1,14 +1,10 @@
 ---
-id: projects
-title: Projects
+id: Software UI
+title: UI Project
 ---
 
-Embed any notable projects in this page.
+This project i created was a design for a GUI interface that was required for a school project that i think looks like it is well designed from my perspective. 
 
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
+The GUI just lays out the applications use by marking where the user will complete the tasks associated by the programs design to complete the job neccessary to the business task.
 
-You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
-or even embed images with the following Markdown:
-
-![Add alternate text for image](./assets/rosemary.png)
+![Add alternate text for image](./assets/ui.png)
